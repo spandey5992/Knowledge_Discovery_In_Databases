@@ -9,7 +9,7 @@ Getting Started:<br>
 <a name="toc"></a>
 ## Table of Contents  (new content will be released during the semester)
 ## Knowledge Discovery in Databases (Text: Larose, Larose: Data Science Using Python and R<br>
-1. <a href="https://github.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/EDAiris.ipynb">Exploring Data for Knowledge and Understanding</a>
+1. <a href="https://github.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/EDAIris.ipynb">Exploring Data for Knowledge and Understanding</a>
 2. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/chapter2_homework2_lab.ipynb">Chapter 2 Lab and HW 2</a>
 3. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/Chapter7_HW_3_lab.ipynb">Chapter 7 Lab and HW 3</a>
 4. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/chapter11_homework4_lab.ipynb">Chapter 11 Lab and HW 4</a>
