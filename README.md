@@ -9,6 +9,7 @@ Getting Started:<br>
 <a name="toc"></a>
 ## Table of Contents  (new content will be released during the semester)
 ## Knowledge Discovery in Databases (Text: Larose, Larose: Data Science Using Python and R<br>
+## After opening a file, you can change the URL to githubtocolab.com  . . and reload to open in colab. Try this with the Jupyter Markdown Primer.
 1. <a href="https://github.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/EDAIris.ipynb">Exploring Data for Knowledge and Understanding</a>
 2. <a href="https://github.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/Jupyter_Markdown_Primer.ipynb">Jupyter Markdown Primer by Example</a>
 
